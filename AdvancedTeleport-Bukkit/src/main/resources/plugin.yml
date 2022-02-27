@@ -93,10 +93,10 @@ commands:
     description: Teleports you to the spawn location.
     permission: at.member.spawn
     usage: /spawn
-  setspawn:
-    description: Sets a spawn at your location.
-    permission: at.admin.setspawn
-    usage: /setspawn
+#  setspawn:
+#    description: Sets a spawn at your location.
+#    permission: at.admin.setspawn
+#    usage: /setspawn
   mirrorspawn:
     description: Redirects people using /spawn in one world to another spawn point.
     permission: at.admin.mirrorspawn
